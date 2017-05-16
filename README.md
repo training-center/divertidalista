@@ -11,7 +11,7 @@ Se você não participa da nossa comunidade e quer divulgar seu projeto, partici
 ## Sumário
 
 - [Como funciona](#como-funciona)
-- [Quais tipos de links posso colocar aqui?]()
+- [Quais tipos de links posso colocar aqui?](#quais-tipos-de-links-posso-colocar-aqui)
 - [Como contribuir](#como-contribuir)
 - [Iniciante](#iniciante)
 - [Intermediário](#intermediario)
