@@ -11,6 +11,7 @@ Se você não participa da nossa comunidade e quer divulgar seu projeto, partici
 ## Sumário
 
 - [Como funciona](#como-funciona)
+- [Quais tipos de links posso colocar aqui?]()
 - [Como contribuir](#como-contribuir)
 - [Iniciante](#iniciante)
 - [Intermediário](#intermediario)
@@ -31,6 +32,10 @@ projetos | tecnologias
 ---- | ----
 [nome do meu projeto](link para o meu projeto) | Java, Node, HTML, CSS, JavaScript
 ```
+
+## Quais tipos de links posso colocar aqui?
+
+Você pode enviar links do GitHub, Codepen ou qualquer outra plataforma de compartilhamento de projetos onde de para clonar o seu projeto e fazer alterações, enviar sugestões, etc.
 
 ## Como contribuir
 
