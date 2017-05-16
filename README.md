@@ -44,6 +44,7 @@ Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 
 projetos | tecnologias
 ---- | ----
+[Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
 
 ## intermediario
 
