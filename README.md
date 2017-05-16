@@ -62,10 +62,10 @@ Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 
 projetos | tecnologias
 ---- | ----
-[Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
-[Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
 [Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
+[Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
 [Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
+[Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
 
 ## intermediario
 
