@@ -12,7 +12,7 @@ Se você não participa da nossa comunidade e quer divulgar seu projeto, partici
 
 - [Como funciona](#como-funciona)
 - [Quais tipos de links posso colocar aqui?](#quais-tipos-de-links-posso-colocar-aqui)
-- [Quais tipos de projetos e tecnologias posso colocar aqui?]
+- [Quais tipos de projetos e tecnologias posso colocar aqui?](#quais-tipos-de-projetos-e-tecnologias-posso-colocar-aqui)
 - [Como contribuir](#como-contribuir)
 - [Iniciante](#iniciante)
 - [Intermediário](#intermediario)
