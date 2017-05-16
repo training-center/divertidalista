@@ -63,6 +63,11 @@ Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 projetos | tecnologias
 ---- | ----
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
+[Estrutura de dados - "exemplos"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
+[Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
+[Material design e outros](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
+[Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
+[Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
 
 ## intermediario
 
