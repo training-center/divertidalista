@@ -8,6 +8,13 @@ Isso para divulgar seus projetos abertos e também para incentivar quem está no
 
 Se você não participa da nossa comunidade e quer divulgar seu projeto, participe do #multiraoopensource do Training Center e mande seu link para essa lista aqui: [Lista Maravilhosa de Projetos Open-Source](https://github.com/camilatigre/listamaravilhosaopensource)
 
+## Sumário
+
+- [Como funciona](#como-funciona)
+- [Iniciante](#iniciante)
+- [Intermediário](#intermediario)
+- [Avançado](#avancado)
+
 ## Como funciona?
 
 A lista é organizada por nível de conhecimento (`iniciante`, `intermediario`, `avancado`) e esse nível é adicionado por quem coloca seu projeto na lista, por isso é interessante que o dono ou dona do projeto seja quem adiciona ele aqui.
