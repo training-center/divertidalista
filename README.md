@@ -19,7 +19,22 @@ Por exemplo:
 ```
 ## iniciante
 
-projeto | tecnologias
+projetos | tecnologias
 ---- | ----
 [nome do meu projeto](link para o meu projeto) | Java, Node, HTML, CSS, JavaScript
 ```
+
+## iniciante
+
+projetos | tecnologias
+---- | ----
+
+## intermediario
+
+projetos | tecnologias
+---- | ----
+
+## avancado
+
+projetos | tecnologias
+---- | ----
