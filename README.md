@@ -12,6 +12,7 @@ Se você não participa da nossa comunidade e quer divulgar seu projeto, partici
 
 - [Como funciona](#como-funciona)
 - [Quais tipos de links posso colocar aqui?](#quais-tipos-de-links-posso-colocar-aqui)
+- [Quais tipos de projetos e tecnologias posso colocar aqui?]
 - [Como contribuir](#como-contribuir)
 - [Iniciante](#iniciante)
 - [Intermediário](#intermediario)
@@ -36,6 +37,18 @@ projetos | tecnologias
 ## Quais tipos de links posso colocar aqui?
 
 Você pode enviar links do GitHub, Codepen ou qualquer outra plataforma de compartilhamento de projetos onde de para clonar o seu projeto e fazer alterações, enviar sugestões, etc.
+
+## Quais tipos de projetos e tecnologias posso colocar aqui?
+
+Você pode colocar qualquer tipo de projeto e qualquer tipo de tecnologia.
+
+Desde sites, libs até drivers.
+
+Desde Web como HTML, CSS, JavaScript até C, C++, Java, Android, iOS...
+
+Você pode colocar um projeto de site que começou a desenvolver e precisa de ajuda ou mesmo uma biblioteca que criou para controlar robôs e IoT!
+
+Temos gente querendo aprender de **tudo** no Training Center, então não vai faltar quem queira contribuir em seu projeto.
 
 ## Como contribuir
 
