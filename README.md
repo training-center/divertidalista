@@ -31,6 +31,14 @@ projetos | tecnologias
 [nome do meu projeto](link para o meu projeto) | Java, Node, HTML, CSS, JavaScript
 ```
 
+## Como contribuir
+
+Você pode adicionar seu projeto nas listas abaixo ou mesmo ajudar a manter esse repositório.
+
+A lista deve estar em ordem alfabética, então coloque o seu repositório no local correto.
+
+Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
+
 ## iniciante
 
 projetos | tecnologias
