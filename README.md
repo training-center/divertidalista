@@ -11,6 +11,7 @@ Se você não participa da nossa comunidade e quer divulgar seu projeto, partici
 ## Sumário
 
 - [Como funciona](#como-funciona)
+- [Como contribuir](#como-contribuir)
 - [Iniciante](#iniciante)
 - [Intermediário](#intermediario)
 - [Avançado](#avancado)
