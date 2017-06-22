@@ -87,7 +87,7 @@ projetos | tecnologias
 [Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
 [Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
-[Site de Doação de Livros](http://livrosemapego.com.br/) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
+[Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
 
 
 ## avancado
