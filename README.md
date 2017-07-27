@@ -1,6 +1,17 @@
-# divertidalista
+# divertidalista <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+
 
 > A lista mais divertida de projetos Open Source que você vai encontrar na internet
+
+<ul>
+  <li><a href="https://ctgroups.herokuapp.com/" target="_blank" title="Entre no nosso grupo no Slack">Entre no nosso grupo no Slack</a></li>
+  <li><a href="https://medium.com/trainingcenter/como-se-comportar-no-slack-do-training-center-a3715fb7c00f" target="_blank" title="Saiba como se comportar no nosso Slack">Saiba como se comportar no nosso Slack</a></li>
+  <li><a href="https://twitter.com/trainingcentr" target="_blank" title="Siga-nos no Twitter">Siga-nos no Twitter</a></li>
+  <li><a href="https://medium.com/trainingcenter" target="_blank" title="Leia nossos artigos no Medium">Leia nossos artigos no Medium</a></li>
+  <li><a href="bitly.com/quero-post-no-training-center" target="_blank" title="Peça um post para as pessoas que escrevem para o Training Center">Peça um post para as pessoas que escrevem para o Training Center</a></li>
+  <li><a href="https://www.youtube.com/c/TrainingCenterChannel" target="_blank" title="Acompanhe nossos vídeos no YouTube">Acompanhe nossos vídeos no YouTube</a></li>
+  <li><a href="https://www.reddit.com/r/trainingcentr/" target="_blank" title="Participe do nosso forum no Reddit">Participe do nosso forum no Reddit</a></li>
+</ul>
 
 Essa é a lista de projetos Open Source dos participantes do [Training Center](https://github.com/training-center/sobre).
 
@@ -72,10 +83,12 @@ projetos | tecnologias
 
 projetos | tecnologias
 ---- | ----
+[Braço Robótico controlado por um aplicativo Android](https://github.com/lflimeira/RoboticArmAndroid) | Arduino/Android
 [Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
 [Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
 [React exemplos](https://github.com/danilosilvadev/react-learning) | javascript
+[Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
 
 ## avancado
 
