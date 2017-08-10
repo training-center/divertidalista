@@ -81,7 +81,7 @@ projetos | tecnologias
 [Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
 [Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
-[Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | HTML, JS, CSS, Node, Pug, Stylus
+[Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
 
 ## intermediario
 
