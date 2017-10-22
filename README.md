@@ -83,6 +83,7 @@ projetos | tecnologias
 [Links úteis - Rio.CSS](https://github.com/riocss/links) | Markdown
 [Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
+[Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
 
 ## intermediario
