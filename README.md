@@ -91,8 +91,10 @@ projetos | tecnologias
 
 projetos | tecnologias
 ---- | ----
+[API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
 [Bolognese Timer - Um simples pomodoro timer](https://github.com/vmarcosp/bolognese-timer) | HTML, CSS, JS, Vue.js, Sass e Webpack
 [Braço Robótico controlado por um aplicativo Android](https://github.com/lflimeira/RoboticArmAndroid) | Arduino/Android
+[Dashboard de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-dashboard) | Javascript/Vue.js
 [Doe Sangue (spa) - plataforma online para doadores de sangue](https://github.com/doesangueorg/doesangue-webapp) | HTML, CSS, JS, Vue.js
 [Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
 [Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
