@@ -76,8 +76,11 @@ Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 projetos | tecnologias
 ---- | ----
 [Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
+[Developer Practice](https://github.com/alinebastos/dev-practice) | Markdown
 [ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
 [Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
+[Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Markdown
+[Links úteis - Rio.CSS](https://github.com/riocss/links) | Markdown
 [Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
