@@ -83,9 +83,12 @@ projetos | tecnologias
 [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Markdown
 [Links úteis - Rio.CSS](https://github.com/riocss/links) | Markdown
 [Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
+[PHP TestFest](https://phptestfest.org/) | PHP
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
 [Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
+[Tradução - PHP the right way](https://github.com/PHPSP/php-the-right-way) | Markdown, PHP
+[Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
 
 ## intermediario
 
