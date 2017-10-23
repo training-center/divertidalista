@@ -102,6 +102,7 @@ projetos | tecnologias
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
 [React exemplos](https://github.com/danilosilvadev/react-learning) | javascript
 [Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
+[React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 
 ## avancado
 
