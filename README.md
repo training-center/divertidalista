@@ -89,6 +89,7 @@ projetos | tecnologias
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
 [Tradução - PHP the right way](https://github.com/PHPSP/php-the-right-way) | Markdown, PHP
 [Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
+[Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
 
 ## intermediario
 
