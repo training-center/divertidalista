@@ -81,6 +81,7 @@ projetos | tecnologias
 [ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
 [Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
 [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Markdown
+[Grupos do Telegram - Uma lista de grupos para discussões técnicas](http://listatelegram.github.io/) | Markdown
 [Links úteis - Rio.CSS](https://github.com/riocss/links) | Markdown
 [Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
 [PHP TestFest](https://phptestfest.org/) | PHP
