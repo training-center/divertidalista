@@ -110,6 +110,7 @@ projetos | tecnologias
 [Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
 [Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
+[Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 
 ## avancado
 
