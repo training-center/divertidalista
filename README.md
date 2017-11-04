@@ -81,7 +81,7 @@ projetos | tecnologias
 [Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
-
+[Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML, CSS, JavaScript
 ## intermediario
 
 projetos | tecnologias
