@@ -35,7 +35,7 @@ Se você não participa da nossa comunidade e quer divulgar seu projeto, partici
 
 A lista é organizada por nível de conhecimento (`iniciante`, `intermediario`, `avancado`) e esse nível é adicionado por quem coloca seu projeto na lista, por isso é interessante que o dono ou dona do projeto seja quem adiciona ele aqui.
 
-Para adicionar seu projeto basta descer a tela até o nível de conhecimento específico e adicionar também a label sobre a tecnologia utilizada no projeto. 
+Para adicionar seu projeto basta descer a tela até o nível de conhecimento específico e adicionar também a label sobre a tecnologia utilizada no projeto.
 
 Por exemplo:
 
@@ -75,44 +75,44 @@ Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 
 projetos | tecnologias
 ---- | ----
-[Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
-[Developer Practice](https://github.com/alinebastos/dev-practice) | Markdown
+[Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
+[Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
+[Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
 [Doe Sangue (landing) - plataforma online para doadores de sangue](https://github.com/doesangueorg/doesangueorg.github.io) | HTML, CSS, JS, Sass
-[ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
+[Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML,CSS, JavaScript
+[Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
+[Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
 [Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
+[ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
+[Developer Practice](https://github.com/alinebastos/dev-practice) | Markdown
 [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Markdown
 [Grupos do Telegram - Uma lista de grupos para discussões técnicas](http://listatelegram.github.io/) | Markdown
+[Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
 [Links úteis - Rio.CSS](https://github.com/riocss/links) | Markdown
-[Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
-[Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML,CSS, JavaScript
-[PHP TestFest](https://phptestfest.org/) | PHP
-[Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
-[Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
 [Tradução - PHP the right way](https://github.com/PHPSP/php-the-right-way) | Markdown, PHP
-[Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
-[Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
+[PHP TestFest](https://phptestfest.org/) | PHP
 [Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
 
 ## intermediario
 
 projetos | tecnologias
 ---- | ----
-[API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
-[Bolognese Timer - Um simples pomodoro timer](https://github.com/vmarcosp/bolognese-timer) | HTML, CSS, JS, Vue.js, Sass e Webpack
+[Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
 [Braço Robótico controlado por um aplicativo Android](https://github.com/lflimeira/RoboticArmAndroid) | Arduino/Android
-[Dashboard de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-dashboard) | Javascript/Vue.js
+[Bolognese Timer - Um simples pomodoro timer](https://github.com/vmarcosp/bolognese-timer) | HTML, CSS, JS, Vue.js, Sass e Webpack
+[Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
 [Doe Sangue (spa) - plataforma online para doadores de sangue](https://github.com/doesangueorg/doesangue-webapp) | HTML, CSS, JS, Vue.js
+[Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
+[Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
+[React exemplos](https://github.com/danilosilvadev/react-learning) | Javascript
+[Dashboard de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-dashboard) | Javascript/Vue.js
 [Feed com atividades das pessoas que você segue no Github](https://github.com/arojunior/awesome-feed) | Javascript, React, GraphQL
 [FreeCourses - Cursos Grátis sobre programação](https://github.com/Leocardoso94/Free-Courses) | Javascript, React, SCSS, Webpack
-[Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
-[Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
-[React exemplos](https://github.com/danilosilvadev/react-learning) | javascript
-[Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
-[Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
-[React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 [Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
+[API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
+[React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 
 ## avancado
 
