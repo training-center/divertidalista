@@ -110,6 +110,11 @@ projetos | tecnologias
 [Feed com atividades das pessoas que você segue no Github](https://github.com/arojunior/awesome-feed) | Javascript, React, GraphQL
 [FreeCourses - Cursos Grátis sobre programação](https://github.com/Leocardoso94/Free-Courses) | Javascript, React, SCSS, Webpack
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
+[React exemplos](https://github.com/danilosilvadev/react-learning) | javascript
+[RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
+[Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
+[Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
+[React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 [Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 [API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
