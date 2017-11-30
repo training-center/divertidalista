@@ -93,6 +93,7 @@ projetos | tecnologias
 [Tradução - PHP the right way](https://github.com/PHPSP/php-the-right-way) | Markdown, PHP
 [PHP TestFest](https://phptestfest.org/) | PHP
 [Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
+[Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
 
 ## intermediario
 
