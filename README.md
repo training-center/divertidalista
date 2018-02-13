@@ -78,7 +78,6 @@ projetos | tecnologias
 [Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
 [Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
-[Doe Sangue (landing) - plataforma online para doadores de sangue](https://github.com/doesangueorg/doesangueorg.github.io) | HTML, CSS, JS, Sass
 [Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML,CSS, JavaScript
 [Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
 [Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
@@ -119,7 +118,6 @@ projetos | tecnologias
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 [Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 [API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
-[React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 
 ## avancado
 
