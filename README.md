@@ -86,11 +86,13 @@ projetos | tecnologias
 [Developer Practice](https://github.com/alinebastos/dev-practice) | Markdown
 [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Markdown
 [Grupos do Telegram - Uma lista de grupos para discussões técnicas](http://listatelegram.github.io/) | Markdown
+[Iron Man - Pixel Art ](https://codepen.io/crisgon/pen/bLVgpq) | CSS3
 [Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
 [Links úteis - Rio.CSS](https://github.com/riocss/links) | Markdown
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
 [Tradução - PHP the right way](https://github.com/PHPSP/php-the-right-way) | Markdown, PHP
 [PHP TestFest](https://phptestfest.org/) | PHP
+[PokeInfo - Plataforma com informações sobre pokemons](https://github.com/crisgon/pokeinfo) | HTML, CSS, Javascript
 [Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
 [Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
 [DeveloPets](https://github.com/vspedr/developets) | Javascript, React, CSS
