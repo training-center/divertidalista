@@ -77,25 +77,25 @@ projetos | tecnologias
 ---- | ----
 [Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
+[Iron Man - Pixel Art ](https://codepen.io/crisgon/pen/bLVgpq) | CSS3
 [Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
 [Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML,CSS, JavaScript
+[PokeInfo - Plataforma com informações sobre pokemons](https://github.com/crisgon/pokeinfo) | HTML, CSS, Javascript
 [Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
 [Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
 [Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
 [ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
+[DeveloPets](https://github.com/vspedr/developets) | Javascript, React, CSS
 [Developer Practice](https://github.com/alinebastos/dev-practice) | Markdown
 [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Markdown
 [Grupos do Telegram - Uma lista de grupos para discussões técnicas](http://listatelegram.github.io/) | Markdown
-[Iron Man - Pixel Art ](https://codepen.io/crisgon/pen/bLVgpq) | CSS3
 [Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
 [Links úteis - Rio.CSS](https://github.com/riocss/links) | Markdown
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
 [Tradução - PHP the right way](https://github.com/PHPSP/php-the-right-way) | Markdown, PHP
 [PHP TestFest](https://phptestfest.org/) | PHP
-[PokeInfo - Plataforma com informações sobre pokemons](https://github.com/crisgon/pokeinfo) | HTML, CSS, Javascript
-[Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
 [Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
-[DeveloPets](https://github.com/vspedr/developets) | Javascript, React, CSS
+[Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
 
 ## intermediario
 
@@ -107,19 +107,19 @@ projetos | tecnologias
 [Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
 [Doe Sangue (spa) - plataforma online para doadores de sangue](https://github.com/doesangueorg/doesangue-webapp) | HTML, CSS, JS, Vue.js
 [Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
+[Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
 [Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
 [React exemplos](https://github.com/danilosilvadev/react-learning) | Javascript
 [Dashboard de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-dashboard) | Javascript/Vue.js
 [Feed com atividades das pessoas que você segue no Github](https://github.com/arojunior/awesome-feed) | Javascript, React, GraphQL
 [FreeCourses - Cursos Grátis sobre programação](https://github.com/Leocardoso94/Free-Courses) | Javascript, React, SCSS, Webpack
-[Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
 [React exemplos](https://github.com/danilosilvadev/react-learning) | javascript
 [RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
-[Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
-[Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
-[React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
+[Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
 [Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 [API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
+[React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
+
 
 ## avancado
 
