@@ -1,4 +1,4 @@
-# divertidalista <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+# Divertidalista <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
 
 > A lista mais divertida de projetos Open Source que você vai encontrar na internet
@@ -70,7 +70,7 @@ Você pode adicionar seu projeto nas listas abaixo ou mesmo ajudar a manter esse
 
 Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 
-## iniciante
+## Iniciante
 
 projetos | tecnologias
 ---- | ----
@@ -99,7 +99,7 @@ projetos | tecnologias
 [Zombie - Package Golang para rodar comandos no terminal](https://github.com/awesome-br/awesome-br.github.io) | Golang
 
 
-## intermediario
+## Intermediário
 
 projetos | tecnologias
 ---- | ----
@@ -121,7 +121,7 @@ projetos | tecnologias
 [RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
 [Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
 
-## avancado
+## Avançado
 
 projetos | tecnologias
 ---- | ----
