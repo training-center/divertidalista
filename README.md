@@ -96,6 +96,7 @@ projetos | tecnologias
 [Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
 [Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
 [Zombie - Package Golang para rodar comandos no terminal](https://github.com/awesome-br/awesome-br.github.io) | Golang
+[Brasilino - Arduino utilizando comandos facilitados em PT-BR](https://github.com/OtacilioN/Brasilino) | C++/Arduino
 
 ## intermediario
 
@@ -118,7 +119,7 @@ projetos | tecnologias
 [Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 [API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
-
+[ArduinoTablature - Cria músicas para Arduino a partir de uma Tablatura](https://github.com/ThiagoAugustoSM/arduino-tablature) | Node.js/Arduino
 
 ## avancado
 
