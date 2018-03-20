@@ -66,7 +66,7 @@ Temos gente querendo aprender de **tudo** no Training Center, então não vai fa
 
 Você pode adicionar seu projeto nas listas abaixo ou mesmo ajudar a manter esse repositório.
 
-A lista deve estar em ordem alfabética, então coloque o seu repositório no local correto.
+**A lista deve estar em ordem alfabética, então coloque o seu repositório no local correto.**
 
 Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 
