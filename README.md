@@ -74,29 +74,30 @@ Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 
 projetos | tecnologias
 ---- | ----
-[Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
-[Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
-[Iron Man - Pixel Art ](https://codepen.io/crisgon/pen/bLVgpq) | CSS3
-[Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
-[Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML,CSS, JavaScript
-[PokeInfo - Plataforma com informações sobre pokemons](https://github.com/crisgon/pokeinfo) | HTML, CSS, Javascript
-[Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
+[Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
+[Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
+[Brasilino - Arduino utilizando comandos facilitados em PT-BR](https://github.com/OtacilioN/Brasilino) | C++/Arduino
 [Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
-[Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
-[ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
-[DeveloPets](https://github.com/vspedr/developets) | Javascript, React, CSS
 [Developer Practice](https://github.com/alinebastos/dev-practice) | Markdown
+[DeveloPets](https://github.com/vspedr/developets) | Javascript, React, CSS
+[ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
+[Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
 [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Markdown
 [Grupos do Telegram - Uma lista de grupos para discussões técnicas](http://listatelegram.github.io/) | Markdown
-[Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
+[Iron Man - Pixel Art ](https://codepen.io/crisgon/pen/bLVgpq) | CSS3
 [Links úteis - Rio.CSS](https://github.com/riocss/links) | Markdown
+[Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
+[Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML,CSS, JavaScript
+[PHP TestFest](https://phptestfest.org/) | PHP
+[PokeInfo - Plataforma com informações sobre pokemons](https://github.com/crisgon/pokeinfo) | HTML, CSS, Javascript
+[Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
+[Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
 [Tradução - PHP the right way](https://github.com/PHPSP/php-the-right-way) | Markdown, PHP
-[PHP TestFest](https://phptestfest.org/) | PHP
-[Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
-[Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
+[Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
+[Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
 [Zombie - Package Golang para rodar comandos no terminal](https://github.com/awesome-br/awesome-br.github.io) | Golang
-[Brasilino - Arduino utilizando comandos facilitados em PT-BR](https://github.com/OtacilioN/Brasilino) | C++/Arduino
+
 
 ## intermediario
 
