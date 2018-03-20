@@ -103,24 +103,23 @@ projetos | tecnologias
 
 projetos | tecnologias
 ---- | ----
-[Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
-[Braço Robótico controlado por um aplicativo Android](https://github.com/lflimeira/RoboticArmAndroid) | Arduino/Android
+[API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
+[ArduinoTablature - Cria músicas para Arduino a partir de uma Tablatura](https://github.com/ThiagoAugustoSM/arduino-tablature) | Node.js/Arduino
+[Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 [Bolognese Timer - Um simples pomodoro timer](https://github.com/vmarcosp/bolognese-timer) | HTML, CSS, JS, Vue.js, Sass e Webpack
-[Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
-[Doe Sangue (spa) - plataforma online para doadores de sangue](https://github.com/doesangueorg/doesangue-webapp) | HTML, CSS, JS, Vue.js
-[Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
-[Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
-[React exemplos](https://github.com/danilosilvadev/react-learning) | Javascript
+[Braço Robótico controlado por um aplicativo Android](https://github.com/lflimeira/RoboticArmAndroid) | Arduino/Android
 [Dashboard de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-dashboard) | Javascript/Vue.js
+[Doe Sangue (spa) - plataforma online para doadores de sangue](https://github.com/doesangueorg/doesangue-webapp) | HTML, CSS, JS, Vue.js
 [Feed com atividades das pessoas que você segue no Github](https://github.com/arojunior/awesome-feed) | Javascript, React, GraphQL
 [FreeCourses - Cursos Grátis sobre programação](https://github.com/Leocardoso94/Free-Courses) | Javascript, React, SCSS, Webpack
-[React exemplos](https://github.com/danilosilvadev/react-learning) | javascript
-[RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
+[Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
+[Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
-[Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
-[API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
+[Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
-[ArduinoTablature - Cria músicas para Arduino a partir de uma Tablatura](https://github.com/ThiagoAugustoSM/arduino-tablature) | Node.js/Arduino
+[React exemplos](https://github.com/danilosilvadev/react-learning) | Javascript
+[RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
+[Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
 
 ## avancado
 
