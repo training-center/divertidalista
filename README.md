@@ -1,4 +1,4 @@
-# divertidalista <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
+# Divertidalista <a href="https://ctgroups.herokuapp.com/" title="Acesse nosso Slack" target="_blank"><img src="/img/Slack.png" alt="Acesse nosso Slack" width="25px"></a>
 
 
 > A lista mais divertida de projetos Open Source que você vai encontrar na internet
@@ -66,61 +66,62 @@ Temos gente querendo aprender de **tudo** no Training Center, então não vai fa
 
 Você pode adicionar seu projeto nas listas abaixo ou mesmo ajudar a manter esse repositório.
 
-A lista deve estar em ordem alfabética, então coloque o seu repositório no local correto.
+**A lista deve estar em ordem alfabética, então coloque o seu repositório no local correto.**
 
 Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 
-## iniciante
+## Iniciante
 
 projetos | tecnologias
 ---- | ----
-[Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
-[Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
-[Iron Man - Pixel Art ](https://codepen.io/crisgon/pen/bLVgpq) | CSS3
-[Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
-[Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML,CSS, JavaScript
-[PokeInfo - Plataforma com informações sobre pokemons](https://github.com/crisgon/pokeinfo) | HTML, CSS, Javascript
-[Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
+[Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
+[Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
+[Brasilino - Arduino utilizando comandos facilitados em PT-BR](https://github.com/OtacilioN/Brasilino) | C++/Arduino
 [Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
-[Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
-[ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
-[DeveloPets](https://github.com/vspedr/developets) | Javascript, React, CSS
 [Developer Practice](https://github.com/alinebastos/dev-practice) | Markdown
+[DeveloPets](https://github.com/vspedr/developets) | Javascript, React, CSS
+[ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
+[Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
 [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Markdown
 [Grupos do Telegram - Uma lista de grupos para discussões técnicas](http://listatelegram.github.io/) | Markdown
-[Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
+[Iron Man - Pixel Art ](https://codepen.io/crisgon/pen/bLVgpq) | CSS3
 [Links úteis - Rio.CSS](https://github.com/riocss/links) | Markdown
+[Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
+[Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML,CSS, JavaScript
+[PHP TestFest](https://phptestfest.org/) | PHP
+[PokeInfo - Plataforma com informações sobre pokemons](https://github.com/crisgon/pokeinfo) | HTML, CSS, Javascript
+[Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
+[Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
 [Tradução - PHP the right way](https://github.com/PHPSP/php-the-right-way) | Markdown, PHP
-[PHP TestFest](https://phptestfest.org/) | PHP
-[Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
-[Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
+[Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
+[Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
 [Zombie - Package Golang para rodar comandos no terminal](https://github.com/awesome-br/awesome-br.github.io) | Golang
 
-## intermediario
+
+## Intermediário
 
 projetos | tecnologias
 ---- | ----
-[Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
-[Braço Robótico controlado por um aplicativo Android](https://github.com/lflimeira/RoboticArmAndroid) | Arduino/Android
+[API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
+[ArduinoTablature - Cria músicas para Arduino a partir de uma Tablatura](https://github.com/ThiagoAugustoSM/arduino-tablature) | Node.js/Arduino
+[Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 [Bolognese Timer - Um simples pomodoro timer](https://github.com/vmarcosp/bolognese-timer) | HTML, CSS, JS, Vue.js, Sass e Webpack
-[Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
-[Doe Sangue (spa) - plataforma online para doadores de sangue](https://github.com/doesangueorg/doesangue-webapp) | HTML, CSS, JS, Vue.js
-[Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
-[Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
-[React exemplos](https://github.com/danilosilvadev/react-learning) | Javascript
+[Braço Robótico controlado por um aplicativo Android](https://github.com/lflimeira/RoboticArmAndroid) | Arduino/Android
 [Dashboard de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-dashboard) | Javascript/Vue.js
+[Doe Sangue (spa) - plataforma online para doadores de sangue](https://github.com/doesangueorg/doesangue-webapp) | HTML, CSS, JS, Vue.js
 [Feed com atividades das pessoas que você segue no Github](https://github.com/arojunior/awesome-feed) | Javascript, React, GraphQL
 [FreeCourses - Cursos Grátis sobre programação](https://github.com/Leocardoso94/Free-Courses) | Javascript, React, SCSS, Webpack
-[React exemplos](https://github.com/danilosilvadev/react-learning) | javascript
-[RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
+[Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
+[Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
-[Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
-[API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
+[Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
+[React exemplos](https://github.com/danilosilvadev/react-learning) | Javascript
+[RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
+[Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
 
-
-## avancado
+## Avançado
 
 projetos | tecnologias
 ---- | ----
