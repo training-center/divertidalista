@@ -120,7 +120,7 @@ projetos | tecnologias
 [React exemplos](https://github.com/danilosilvadev/react-learning) | Javascript
 [RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
 [Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
-
+[Ondetempico - Compartilhe os melhores locais para se andar de skate](https://github.com/ondetempico) | React, Redux, Stylus, Firebase, Gmaps e outros
 ## Avançado
 
 projetos | tecnologias
