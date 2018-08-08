@@ -116,9 +116,11 @@ projetos | tecnologias
 [React exemplos](https://github.com/danilosilvadev/react-learning) | javascript
 [RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
+[Guithub Search](https://github.com/crisgon/github-search) | Vue JS, Vuex, Vue Router
 [Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 [API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
+[Vue Cart](https://github.com/crisgon/vue-cart) | Vue JS, Vuex, Vue Router
 
 
 ## avancado
