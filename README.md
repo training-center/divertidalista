@@ -93,7 +93,6 @@ projetos | tecnologias
 [Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML, CSS, JavaScript
 [PHP TestFest](https://phptestfest.org/) | PHP
 [PokeInfo - Plataforma com informações sobre pokemons](https://github.com/crisgon/pokeinfo) | HTML, CSS, Javascript
-[Portfolio](https://lucasnaja.github.io/portfolio/) | HTML, CSS,  JavaScript
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
 [Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
@@ -101,7 +100,6 @@ projetos | tecnologias
 [Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
 [Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
 [Zombie - Package Golang para rodar comandos no terminal](https://github.com/awesome-br/awesome-br.github.io) | Golang
-
 
 ## Intermediário
 
