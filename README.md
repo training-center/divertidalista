@@ -84,11 +84,14 @@ projetos | tecnologias
 [ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
 [Estrutura de dados - "exemplos de referência"](https://github.com/danilosilvadev/EstudosEstruturadeDados/tree/master/src) | JAVA
 [Fullstack Challenges](https://github.com/alinebastos/fullstack-challenges) | Markdown
+[Gerador de Deck](https://github.com/LucasNaja/deck-generator) | C#
+[Gerador de Senhas](https://github.com/LucasNaja/password-generator) | C#
 [Grupos do Telegram - Uma lista de grupos para discussões técnicas](http://listatelegram.github.io/) | Markdown
-[Iron Man - Pixel Art ](https://codepen.io/crisgon/pen/bLVgpq) | CSS3
+[Iron Man - Pixel Art](https://codepen.io/crisgon/pen/bLVgpq) | CSS3
+[Jogo da Velha](https://lucasnaja.github.io/web.tic-tac-toe/) | HTML, CSS, JavaScript
 [Links úteis - Rio.CSS](https://github.com/riocss/links) | Markdown
 [Material design e outros - "referência"](https://github.com/danilosilvadev/MaterialDesignANDROID) | Android
-[Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML,CSS, JavaScript
+[Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML, CSS, JavaScript
 [PHP TestFest](https://phptestfest.org/) | PHP
 [PokeInfo - Plataforma com informações sobre pokemons](https://github.com/crisgon/pokeinfo) | HTML, CSS, Javascript
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
@@ -98,7 +101,6 @@ projetos | tecnologias
 [Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
 [Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
 [Zombie - Package Golang para rodar comandos no terminal](https://github.com/julioc98/zombie) | Golang
-
 
 ## Intermediário
 
