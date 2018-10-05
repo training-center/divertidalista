@@ -75,6 +75,7 @@ Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 projetos | tecnologias
 ---- | ----
 [Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
+[Awesome dashboards - A dashboards list free for use](https://github.com/omarkdev/awesome-dashboards) | Markdown
 [Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
 [Brasilino - Arduino utilizando comandos facilitados em PT-BR](https://github.com/OtacilioN/Brasilino) | C++/Arduino
 [Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
@@ -96,7 +97,7 @@ projetos | tecnologias
 [Tradução - PHP the right way](https://github.com/PHPSP/php-the-right-way) | Markdown, PHP
 [Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
 [Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
-[Zombie - Package Golang para rodar comandos no terminal](https://github.com/awesome-br/awesome-br.github.io) | Golang
+[Zombie - Package Golang para rodar comandos no terminal](https://github.com/julioc98/zombie) | Golang
 
 
 ## Intermediário
@@ -125,6 +126,8 @@ projetos | tecnologias
 [RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
 [Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
 [Vue Cart](https://github.com/crisgon/vue-cart) | Vue JS, Vuex, Vue Router
+[Ondetempico - Compartilhe os melhores locais para se andar de skate](https://github.com/ondetempico) | React, Redux, Stylus, Firebase, Gmaps e outros
+
 
 ## Avançado
 
