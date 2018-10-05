@@ -116,12 +116,19 @@ projetos | tecnologias
 [Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
 [Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
+[Guithub Search](https://github.com/crisgon/github-search) | Vue JS, Vuex, Vue Router
+[Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
+[API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
+[React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 [Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 [React exemplos](https://github.com/danilosilvadev/react-learning) | Javascript
 [RouterKhanJS - Router System](https://github.com/PaulaoDev/router-khan-js) | Javasript
 [Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
+[Vue Cart](https://github.com/crisgon/vue-cart) | Vue JS, Vuex, Vue Router
 [Ondetempico - Compartilhe os melhores locais para se andar de skate](https://github.com/ondetempico) | React, Redux, Stylus, Firebase, Gmaps e outros
+
+
 ## Avançado
 
 projetos | tecnologias
