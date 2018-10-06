@@ -117,6 +117,7 @@ projetos | tecnologias
 [FreeCourses - Cursos Grátis sobre programação](https://github.com/Leocardoso94/Free-Courses) | Javascript, React, SCSS, Webpack
 [Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
 [Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
+[go-chat-bot - IRC, Slack, Telegram and Rocket.Chat bot](https://github.com/go-chat-bot/bot) | Go
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
 [Guithub Search](https://github.com/crisgon/github-search) | Vue JS, Vuex, Vue Router
 [Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
