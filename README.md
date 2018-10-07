@@ -120,7 +120,6 @@ projetos | tecnologias
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
 [Guithub Search](https://github.com/crisgon/github-search) | Vue JS, Vuex, Vue Router
 [Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
-[API de Eventos do Front-End Brasil](https://github.com/frontendbr/eventos-api) | Node/Javascript
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 [Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
