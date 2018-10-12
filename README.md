@@ -120,6 +120,7 @@ projetos | tecnologias
 [go-chat-bot - IRC, Slack, Telegram and Rocket.Chat bot](https://github.com/go-chat-bot/bot) | Go
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
 [Guithub Search](https://github.com/crisgon/github-search) | Vue JS, Vuex, Vue Router
+[Kamu - Managing a physical library where you can add books, borrow and return them](https://github.com/ayr-ton/kamu) | Python, React
 [Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 [Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
