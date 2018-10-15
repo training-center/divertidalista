@@ -118,10 +118,10 @@ projetos | tecnologias
 [Gist injeção de dependência com dagger2](https://gist.github.com/danilosilvadev/8c8de30e668d851d66def09c0f713ab8) | Android
 [Gist lambda expressions em 2 minutos](https://gist.github.com/danilosilvadev/b42c87e4114c96844b121a882117de38) | JAVA
 [go-chat-bot - IRC, Slack, Telegram and Rocket.Chat bot](https://github.com/go-chat-bot/bot) | Go
+[Guara.js - Boilerplate para projetos de APIs REST com MongoDB, Docker e Node.js](https://github.com/giovannicruz97/guarajs) | Javascript
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
 [Guithub Search](https://github.com/crisgon/github-search) | Vue JS, Vuex, Vue Router
 [Kamu - Managing a physical library where you can add books, borrow and return them](https://github.com/ayr-ton/kamu) | Python, React
-[Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 [Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
 [React exemplos](https://github.com/danilosilvadev/react-learning) | Javascript
@@ -135,3 +135,4 @@ projetos | tecnologias
 
 projetos | tecnologias
 ---- | ----
+[Nipe - uma ferramenta para tornar do Tor Network seu gateway de rede padrão](https://github.com/GouveaHeitor/nipe) | Perl
