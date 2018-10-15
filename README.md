@@ -121,7 +121,6 @@ projetos | tecnologias
 [Guara.js - Boilerplate para projetos de APIs REST com MongoDB, Docker e Node.js](https://github.com/giovannicruz97/guarajs) | Javascript
 [Guia para gerenciamento de time "em inglês"](https://github.com/NogoApps/workflow) | Markdown
 [Guithub Search](https://github.com/crisgon/github-search) | Vue JS, Vuex, Vue Router
-[Biblioteca movile-messaging](https://github.com/vspedr/movile-messaging) | Node/Javascript, Axios
 [React + Jest](https://github.com/rodrigowpl/react-jest-concepts) | React.js, Jest
 [Magic Framework (Um framework MVC didático para iniciantes!)](https://github.com/giovannicruz97/magic) | HTML, CSS, JS, PHP
 [React exemplos](https://github.com/danilosilvadev/react-learning) | Javascript
