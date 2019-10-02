@@ -75,7 +75,9 @@ Se você encontrou algo fora do lugar, pode enviar um PR corrigindo. :)
 projetos | tecnologias
 ---- | ----
 [Awesome BR - coleção de links nas mais diversas tecnologias](https://github.com/awesome-br/awesome-br.github.io) | Tecnologias Diversas
+[Awesome Agile - A curated list of agile contents](https://github.com/Knowledge21/awesome-agile/) | Markdown
 [Awesome dashboards - A dashboards list free for use](https://github.com/omarkdev/awesome-dashboards) | Markdown
+[Awesome Geek Podcasts - A curated list of podcasts we like to listen to](https://github.com/ayr-ton/awesome-geek-podcasts/) | Markdown
 [Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
 [Brasilino - Arduino utilizando comandos facilitados em PT-BR](https://github.com/OtacilioN/Brasilino) | C++/Arduino
 [Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
