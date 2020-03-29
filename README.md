@@ -78,6 +78,7 @@ projetos | tecnologias
 [Awesome dashboards - A dashboards list free for use](https://github.com/omarkdev/awesome-dashboards) | Markdown
 [Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
 [Brasilino - Arduino utilizando comandos facilitados em PT-BR](https://github.com/OtacilioN/Brasilino) | C++/Arduino
+[Colorful - Um site SPA feito em HTML, CSS e JavaScript que gera infinitas paletas de cores](https://github.com/LaksCastro/colorful) | JavaScript, HTML, CSS
 [Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
 [Developer Practice](https://github.com/alinebastos/dev-practice) | Markdown
 [DeveloPets](https://github.com/vspedr/developets) | Javascript, React, CSS
