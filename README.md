@@ -101,6 +101,7 @@ projetos | tecnologias
 [Tradução - Site PHP TestFest](https://github.com/augustohp/phptestfest.org/pull/1) | Markdown
 [Vibration API - Recriar trechos de musica usando a vibração do celular](https://github.com/hjdesigner/vibration-api) | CSS, Javascript, NodeJS e gulp
 [Zombie - Package Golang para rodar comandos no terminal](https://github.com/julioc98/zombie) | Golang
+[Data Science dos Crimes em São Paulo](https://github.com/guilhermecostam/datascience-crimes-sp) | Python, StreamLit
 
 ## Intermediário
 
@@ -129,6 +130,7 @@ projetos | tecnologias
 [Site de Doação de Livros](https://github.com/mtsalcova/livro-sem-apego) | HTML, CSS, JS, Vue.js, Stylus, Pug e Gulp.js
 [Vue Cart](https://github.com/crisgon/vue-cart) | Vue JS, Vuex, Vue Router
 [Ondetempico - Compartilhe os melhores locais para se andar de skate](https://github.com/ondetempico) | React, Redux, Stylus, Firebase, Gmaps e outros
+[PizzaGuiga - Sistema para Pizzaria](https://github.com/guilhermecostam/PizzaGuiga) | PHP, MySQL
 
 
 ## Avançado
