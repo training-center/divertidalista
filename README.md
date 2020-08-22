@@ -94,6 +94,7 @@ projetos | tecnologias
 [Minimalist Profile - Personal site template](https://github.com/vmarcosp/minimalist-profile) | HTML, CSS, JavaScript
 [PHP TestFest](https://phptestfest.org/) | PHP
 [PokeInfo - Plataforma com informações sobre pokemons](https://github.com/crisgon/pokeinfo) | HTML, CSS, Javascript
+[Programming challenges and competitions](https://github.com/michelbernardods/programming-challenges) | Markdown, Tecnologias Diversas
 [Pure CSS Eric Cartman](https://github.com/alinebastos/css-eric-cartman) | CSS3
 [Site Recanto Buffet](https://github.com/Guilherme-Chinaglia/recantobuffet) | HTML5, CSS3, JQuery, SASS, Bootstrap, NPM, Bower.js e Gulp.js
 [Tradução - Hexo gerador de site estático](https://github.com/lucianobarauna/dochexo) | Markdown
