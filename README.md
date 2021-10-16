@@ -79,6 +79,7 @@ projetos | tecnologias
 [Bomberman: desenvolvendo uma versão do clássico usando Ruby e Gosu](https://github.com/davidallysson/bomberman) | Ruby
 [Brasilino - Arduino utilizando comandos facilitados em PT-BR](https://github.com/OtacilioN/Brasilino) | C++/Arduino
 [Como aprender JAVA sozinho - Fontes e materiais de estudo](https://github.com/danilosilvadev/LearningHowToLearn-JAVA) | JAVA
+[Dev Python - Treinamento para iniciantes em Python](https://github.com/victorltd/DEV_python) | Python
 [Developer Practice](https://github.com/alinebastos/dev-practice) | Markdown
 [DeveloPets](https://github.com/vspedr/developets) | Javascript, React, CSS
 [ES2015 gist rápido de referência](https://gist.github.com/danilosilvadev/c013c95f395821e573244b8b98c287b3) | Javascript
