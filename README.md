@@ -136,3 +136,7 @@ projetos | tecnologias
 projetos | tecnologias
 ---- | ----
 [Nipe - uma ferramenta para tornar do Tor Network seu gateway de rede padrão](https://github.com/GouveaHeitor/nipe) | Perl
+
+projetos | tecnologias
+---- | ----
+[API FanfareInvest - uma api de ivnestimento que tem como objetivo listar investimetnos da carteira do cliente](https://github.com/JessicaNathany/api-fanfareInvest) | C#
