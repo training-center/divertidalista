@@ -42,7 +42,7 @@ Por exemplo:
 ## iniciante
 
 projetos | tecnologias
----- | ----
+-------- | -----------
 [nome do meu projeto](link para o meu projeto) | Java, Node, HTML, CSS, JavaScript
 ```
 
